@@ -1,1 +1,3 @@
 # coursera-html
+
+This repository is for project files pertaining to the exercises of the HTML, CSS and JavaScript course...
